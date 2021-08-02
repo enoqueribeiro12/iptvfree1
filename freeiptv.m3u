@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/3/3c/LOGO-TV-MIRANTE-DIGITAL1.png" group-title="Canais Abertos",GLOBO TV MIRANTE HD
+http://rv.imax.re:80/1564996702/4897034110/82453
+
+#EXTINF:-1 tvg-logo="https://www.claro.com.br/imagem/sbt-1509144736507.jpg" group-title="Canais Abertos",SBT SP HD
+http://solutionplay.xyz:8080/techruthes/89951662/6368
+
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/20435048/23270/v/1600/depositphotos_232704434-stock-illustration-music-planet-logo-design-concept.jpg" group-title="Entretenimento / Música",PRIMEPLAY MUSIC (Em fase de testes)
+http://solutionplay.xyz:8080/techruthes/89951662/13873
