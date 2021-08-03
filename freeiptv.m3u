@@ -6,157 +6,30 @@ http://xcui.vitvabc.xyz:8880/287994003166/287994003166/32170
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Tv_verdes_mares.png" group-title="Canais Abertos",GLOBO TV VERDES MARES HD
 http://xcui.vitvabc.xyz:8880/287994003166/287994003166/33736
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/3/3c/LOGO-TV-MIRANTE-DIGITAL1.png" group-title="Canais Abertos",GLOBO TV MIRANTE HD
-http://connecttvapp.xyz:80/hk0527788/0527788hkxx/133
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP HD" tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="Canais Globo",GLOBO SP HD
+http://solutionplay.xyz:8080/techruthes/5854887/6259
 
-#EXTINF:-1 tvg-logo="https://www.claro.com.br/imagem/sbt-1509144736507.jpg" group-title="Canais Abertos",SBT SP HD
-http://solutionplay.xyz:8080/techruthes/89951662/6368
+#EXTINF:-1 tvg-id="" tvg-name="SBT SP HD" tvg-logo="https://1.bp.blogspot.com/-w44XqjPTvWs/Xk70frnPuKI/AAAAAAAACGo/WLsOdZ3ANYApiYNooamMIhJAWiZwP2yLgCLcBGAsYHQ/s1600/sbt.png" group-title="Canais Abertos",SBT SP HD
+http://solutionplay.xyz:8080/techruthes/5854887/6368
 
 #EXTINF:-1 tvg-logo="https://www.claro.com.br/imagem/record-tv-1509147620762.jpg" group-title="Canais Abertos",RECORD SP HD
 http://xcui.vitvabc.xyz:8880/287994003166/287994003166/31568
 
-#EXTINF:-1 tvg-logo="https://www.claro.com.br/imagem/img-logo-band-novo-1509147025147.jpg" group-title="Canais Abertos",BAND SP HD
-http://solutionplay.xyz:8080/techruthes/89951662/6326
+#EXTINF:-1 tvg-id="" tvg-name="BAND SP HD" tvg-logo="https://1.bp.blogspot.com/-7wD5BCJxD9Y/Xk70MQFgPEI/AAAAAAAACDQ/BpR4PcQ1ou48cOLmC77yc1mz9xkZ0zssgCLcBGAsYHQ/s1600/band_2.png" group-title="Canais Abertos",BAND SP HD
+http://solutionplay.xyz:8080/techruthes/5854887/6326
 
-#EXTINF:-1 tvg-logo="https://www.claro.com.br/imagem/rede-tv-1509144736313.jpg" group-title="Canais Abertos",REDE TV FHD
-http://solutionplay.xyz:8080/techruthes/89951662/6331
+#EXTINF:-1 tvg-id="" tvg-name="PrimePlay Music (EM FASE DE TESTES)" tvg-logo="https://i.imgur.com/bCLtAv7.png" group-title="Canais Variedades",PrimePlay Music (EM FASE DE TESTES)
+http://solutionplay.xyz:8080/techruthes/5854887/13873
 
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://1.bp.blogspot.com/-Nbl1xKywDX4/Xk70PRed9GI/AAAAAAAACDw/0MAoqSfWmZIhGxK8iGzKN3Q0HjHS-bYOgCLcBGAsYHQ/s1600/comedycentral.png" group-title="Canais Variedades",COMEDY CENTRAL HD
+http://solutionplay.xyz:8080/techruthes/5854887/6070
 
-#EXTINF:-1 tvg-logo="https://www.claro.com.br/imagem/canal-multishow-1509138409921.jpg" group-title="Entretenimento / Música",MULTISHOW HD
-http://solutionplay.xyz:8080/techruthes/89951662/6086
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="https://1.bp.blogspot.com/-KUhkg79gvtE/Xk70Ycy0l6I/AAAAAAAACFU/FSdt9HsRs98gkzltg-oGA049omcb1KWlQCLcBGAsYHQ/s1600/hbo.png" group-title="Canais HBO",HBO HD
+http://solutionplay.xyz:8080/techruthes/5854887/5948
 
-#EXTINF:-1 tvg-logo="https://www.claro.com.br/imagem/comedy-central-1509146330903.jpg" group-title="Entretenimento / Música",COMEDY CENTRAL HD
-http://solutionplay.xyz:8080/techruthes/89951662/6070
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://1.bp.blogspot.com/-op011tmRIXQ/Xk70oGwc0-I/AAAAAAAACH8/Pf3FY0ON8Ic7PXZDKBtbiGbLJU4imuV4wCLcBGAsYHQ/s1600/warnerchannel.png" group-title="Canais Filmes",WARNER CHANNEL HD
+http://solutionplay.xyz:8080/techruthes/5854887/6486
 
-#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/20435048/23270/v/1600/depositphotos_232704434-stock-illustration-music-planet-logo-design-concept.jpg" group-title="Entretenimento / Música",PRIMEPLAY MUSIC (Em fase de testes)
-http://solutionplay.xyz:8080/techruthes/89951662/13873
-
-
-#EXTINF:-1 tvg-logo="https://www.claro.com.br/imagem/megapix-1509144695172.jpg" group-title="Filmes / Séries",MEGAPIX HD
-http://solutionplay.xyz:8080/techruthes/89951662/6457
-
-#EXTINF:-1 tvg-logo="https://www.claro.com.br/imagem/space-1509144934802.jpg" group-title="Filmes / Séries",SPACE HD
-http://solutionplay.xyz:8080/techruthes/89951662/6466
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/TC_Premium.png" group-title="Filmes / Séries",TELECINE PREMIUM HD
-http://connecttvapp.xyz:80/hk0527788/0527788hkxx/67
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/TC_Action.png" group-title="Filmes / Séries",TELECINE ACTION HD
-http://connecttvapp.xyz:80/hk0527788/0527788hkxx/63
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Telecine_Cult_Gato.png" group-title="Filmes / Séries",TELECINE CULT HD
-http://connecttvapp.xyz:80/hk0527788/0527788hkxx/64
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/TC_Fun.png" group-title="Filmes / Séries",TELECINE FUN HD
-http://connecttvapp.xyz:80/hk0527788/0527788hkxx/65
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/TC_Pipoca.png" group-title="Filmes / Séries",TELECINE PIPOCA HD
-http://connecttvapp.xyz:80/hk0527788/0527788hkxx/66
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/TC_Touch.png" group-title="Filmes / Séries",TELECINE TOUCH HD
-http://connecttvapp.xyz:80/hk0527788/0527788hkxx/62
-
-#EXTINF:-1 tvg-logo="https://www.claro.com.br/imagem/hbo-1509138603060.jpg" group-title="Filmes / Séries",HBO HD
-http://solutionplay.xyz:8080/techruthes/89951662/5948
-
-#EXTINF:-1 tvg-logo="https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/canal-hbo-plus-252x252.png" group-title="Filmes / Séries",HBO PLUS HD
-http://rv.imax.re:80/1564996702/4897034110/82409
-
-#EXTINF:-1 tvg-logo="https://www.claro.com.br/imagem/logo-universal-1509144760443.jpg" group-title="Filmes / Séries",UNIVERSAL HD
-http://rv.imax.re:80/1564996702/4897034110/82366
-
-#EXTINF:-1 tvg-logo="https://www.claro.com.br/imagem/studio-universal-1509144935515.jpg" group-title="Filmes / Séries",STUDIO UNIVERSAL HD
-http://rv.imax.re:80/1564996702/4897034110/82371
-
-#EXTINF:-1 tvg-logo="https://www.claro.com.br/imagem/sony-1509144934562.jpg" group-title="Filmes / Séries",SONY HD
-http://solutionplay.xyz:8080/techruthes/89951662/6463
-
-#EXTINF:-1 tvg-logo="https://www.claro.com.br/imagem/warner-1509144761304.jpg" group-title="Filmes / Séries",WARNER CHANNEL HD
-http://solutionplay.xyz:8080/techruthes/89951662/6486
-
-#EXTINF:-1 tvg-logo="https://www.claro.com.br/imagem/star-channel-1509150909645.jpg" group-title="Filmes / Séries",FOX HD
-http://solutionplay.xyz:8080/techruthes/89951662/6439
-
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-2.png" group-title="Esportes",SPORTV HD
-http://connecttvapp.xyz:80/hk0527788/0527788hkxx/57
-
-#EXTINF:-1 tvg-logo="https://www.claro.com.br/imagem/canal-sportv-2-1509138449442.jpg" group-title="Esportes",SPORTV 2 HD
-http://connecttvapp.xyz:80/hk0527788/0527788hkxx/58
-
-#EXTINF:-1 tvg-logo="https://www.claro.com.br/imagem/sportv-3-1509144738989.jpg" group-title="Esportes",SPORTV 3 HD
-http://connecttvapp.xyz:80/hk0527788/0527788hkxx/59
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-k0UM0sJL_3U/XGtwKDvUuoI/AAAAAAAABTI/Y1Hd2yG2KVwhR2fNYf_IBGL74ZjZTCGEwCLcBGAs/s1600/1.jpg" group-title="Esportes",PREMIERE HD
-http://connecttvapp.xyz:80/hk0527788/0527788hkxx/57
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-g5XPlzv7Frw/XGtws64t2BI/AAAAAAAABTQ/hFOB-OIbKNIdaxWFZjzm9yJwc8gu-K8SACLcBGAs/s1600/1.jpg" group-title="Esportes",PREMIERE 2 HD
-http://connecttvapp.xyz:80/hk0527788/0527788hkxx/58
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-eXPmbqgtMFs/XGt3BkvGLjI/AAAAAAAABTc/A_Ky_FgmUrk7wflVuIIuqqQeca4QTMmpgCLcBGAs/s1600/1.jpg" group-title="Esportes",PREMIERE 3 HD
-http://connecttvapp.xyz:80/hk0527788/0527788hkxx/59
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-WLK9Mr0GFaQ/XGwBZieLXNI/AAAAAAAABTo/7BHzjdOMkvYOc6azovGi8IShtqzUmPSOQCLcBGAs/s1600/1.jpg" group-title="Esportes",PREMIERE 4 HD
-http://connecttvapp.xyz:80/hk0527788/0527788hkxx/781
-
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-ZaYpKQAyU-M/XGwB8liRXvI/AAAAAAAABTw/2Zpfso1LwZsxDA773fOxmQe5IOpqSWIRQCLcBGAs/s1600/1.jpg" group-title="Esportes",PREMIERE 5 HD
-http://rv.imax.re:80/1564996702/4897034110/82402
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ruUKThum-ow/XGwCWNu0eoI/AAAAAAAABT4/z3-pU9CUg0sr9cKUuXPgrM5tLx-kc7GvwCLcBGAs/s1600/1.jpg" group-title="Esportes",PREMIERE 6 HD
-http://rv.imax.re:80/1564996702/4897034110/82401
-
-#EXTINF:-1 tvg-logo="https://megafilmeshd50.com/wp-content/uploads/2018/04/93B2eT7-214x300.png" group-title="Esportes",PREMIERE 7 HD
-http://rv.imax.re:80/1564996702/4897034110/82400
-
-#EXTINF:-1 tvg-logo="https://www.claro.com.br/imagem/logo-fox-sports-hd-1509147967557.jpg" group-title="Esportes",FOX SPORTS HD
-http://rv.imax.re:80/1564996702/4897034110/82359
-
-#EXTINF:-1 tvg-logo="https://www.claro.com.br/imagem/logo-fox-sports-2-1509144691555.jpg" group-title="Esportes",FOX SPORTS 2 HD
-http://rv.imax.re:80/1564996702/4897034110/82358
-
-#EXTINF:-1 tvg-logo="https://www.claro.com.br/imagem/logo-espn-hd-1509148194295.jpg" group-title="Esportes",ESPN HD
-http://rv.imax.re:80/1564996702/4897034110/82357
-
-#EXTINF:-1 tvg-logo="https://www.claro.com.br/imagem/logo-espn-2-hd-1509147601178.jpg" group-title="Esportes",ESPN 2 HD
-http://rv.imax.re:80/1564996702/4897034110/82355
-
-#EXTINF:-1 tvg-logo="https://www.claro.com.br/imagem/espn-brasil-1509144686395.jpg" group-title="Esportes",ESPN BRASIL HD
-http://rv.imax.re:80/1564996702/4897034110/82354
-
-#EXTINF:-1 tvg-logo="https://globo-sala-de-imprensa.s3.amazonaws.com/CACHE/images/imagens/logotipos/programas/Combate/0ff3c5ef2abf64584aa1a1202189aeb4.jpg" group-title="Esportes",COMBATE HD
-http://rv.imax.re:80/1564996702/4897034110/82353
-
-#EXTINF:-1 tvg-logo="https://www.claro.com.br/imagem/logo-band-sports-1509144650446.jpg" group-title="Esportes",BAND SPORTS HD
-http://rv.imax.re:80/1564996702/4897034110/82352
-
-
-
-#EXTINF:-1 tvg-logo="https://www.net.com.br/imagem/imagem-animal-planethd-1526496355421.jpg" group-title="Documentários",ANIMAL PLANET HD
-http://solutionplay.xyz:8080/techruthes/89951662/5848
-
-#EXTINF:-1 tvg-logo="https://www.claro.com.br/imagem/discovery-1509144661478.jpg" group-title="Documentários",DISCOVERY CHANNEL HD
-http://solutionplay.xyz:8080/techruthes/89951662/5875
-
-
-#EXTINF:-1 tvg-logo="https://www.claro.com.br/imagem/globo-news-1509144692549.jpg" group-title="Notícias",GLOBO NEWS HD
-http://solutionplay.xyz:8080/techruthes/89951662/6108
-
-#EXTINF:-1 tvg-logo="https://www.claro.com.br/imagem/record-news-1509144915247.jpg" group-title="Notícias",RECORD NEWS FHD
-http://solutionplay.xyz:8080/techruthes/89951662/6104
-
-#EXTINF:-1 tvg-logo="https://www.claro.com.br/imagem/logo-band-news-1509144649824.jpg" group-title="Notícias",BAND NEWS HD
-http://rv.imax.re:80/1564996702/4897034110/82429
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://1.bp.blogspot.com/-KYJNJ8ofZhQ/Xk70bsae15I/AAAAAAAACF4/bu4pFKpyK3I802HKsQJEP4f8S7_KLRUXgCLcBGAsYHQ/s1600/megapix.png" group-title="Canais Filmes",MEGAPIX HD
+http://solutionplay.xyz:8080/techruthes/5854887/6457
 
