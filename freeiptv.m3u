@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP HD" tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="Canais Globo",GLOBO SP HD
-http://dazul.me:80/Marcio2022/2022marcio/857360
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO HD" tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="Canais Globo",GLOBO SP HD
+http://xcui.vitvabc.xyz:8880/287994003103/287994003103/32380
 
 #EXTINF:-1 tvg-id="" tvg-name="SBT SP HD" tvg-logo="https://1.bp.blogspot.com/-w44XqjPTvWs/Xk70frnPuKI/AAAAAAAACGo/WLsOdZ3ANYApiYNooamMIhJAWiZwP2yLgCLcBGAsYHQ/s1600/sbt.png" group-title="Canais Abertos",SBT SP HD
-http://105m3u8.epg-kc.com/v3/youshi/m3_Ezf6VNvIW51wZLG8xT274n3X_480p.m3u8?session_id=dc2JQVgIhr6&app_ver=10101&auth_id=48373250_com.global.brasiltvweb&client_ip=45.161.48.150&user_id=48373250&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=http://105m3u8.epg-kc.com/v3/youshi/&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=31a0cfdc&expired=1629085299&token=108CEE77AAA9B1D4E21A9970DAB51A5F&media_code=m3_Ezf6VNvIW51wZLG8xT274n3X_480p
+http://xcui.vitvabc.xyz:8880/287994003103/287994003103/31045
 
 #EXTINF:-1 tvg-logo="https://www.claro.com.br/imagem/record-tv-1509147620762.jpg" group-title="Canais Abertos",RECORD SP HD
-http://dazul.me:80/Marcio2022/2022marcio/857083
+http://xcui.vitvabc.xyz:8880/287994003103/287994003103/31043
 
 #EXTINF:-1 tvg-id="" tvg-name="BAND SP HD" tvg-logo="https://1.bp.blogspot.com/-7wD5BCJxD9Y/Xk70MQFgPEI/AAAAAAAACDQ/BpR4PcQ1ou48cOLmC77yc1mz9xkZ0zssgCLcBGAsYHQ/s1600/band_2.png" group-title="Canais Abertos",BAND SP HD
 http://dazul.me:80/Marcio2022/2022marcio/857015
@@ -39,128 +39,27 @@ http://tvdns.tech:80/Mateus123/Mateus123/770196
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-2.png",SPORTV 4 HD+
 http://tvdns.tech:80/Mateus123/Mateus123/770201
 
-#EXTINF:-1,SPORTV FHD H265 ¹
-http://dazul.me:80/Marcio2022/2022marcio/856987
-#EXTINF:-1,SPORTV FHD ²
-http://dazul.me:80/Marcio2022/2022marcio/847612
-#EXTINF:-1,SPORTV HD ²
-http://dazul.me:80/Marcio2022/2022marcio/847611
-#EXTINF:-1,SPORTV SD ²
-http://dazul.me:80/Marcio2022/2022marcio/847610
-#EXTINF:-1,SPORTV SD ¹
-http://dazul.me:80/Marcio2022/2022marcio/857204
-#EXTINF:-1,SPORTV 2 FHD H265 ¹
-http://dazul.me:80/Marcio2022/2022marcio/856985
-#EXTINF:-1,SPORTV 2 FHD ¹
-http://dazul.me:80/Marcio2022/2022marcio/847618
-#EXTINF:-1,SPORTV 2 HD ²
-http://dazul.me:80/Marcio2022/2022marcio/847617
-#EXTINF:-1,SPORTV 2 HD ¹
-http://dazul.me:80/Marcio2022/2022marcio/856757
-#EXTINF:-1,SPORTV 2 SD ²
-http://dazul.me:80/Marcio2022/2022marcio/847616
-#EXTINF:-1,SPORTV 2 SD ¹ 
-http://dazul.me:80/Marcio2022/2022marcio/857205
-#EXTINF:-1,SPORTV 3 FHD H265 ¹
-http://dazul.me:80/Marcio2022/2022marcio/856986
-#EXTINF:-1,SPORTV 3 FHD ¹
-http://dazul.me:80/Marcio2022/2022marcio/847615
-#EXTINF:-1,SPORTV 3 HD ²
-http://dazul.me:80/Marcio2022/2022marcio/847614
-#EXTINF:-1,SPORTV 3 HD ¹
-http://dazul.me:80/Marcio2022/2022marcio/856758
-#EXTINF:-1,SPORTV 3 SD ²
-http://dazul.me:80/Marcio2022/2022marcio/847613
-#EXTINF:-1,SPORTV 3 SD ¹
-http://dazul.me:80/Marcio2022/2022marcio/857206
-#EXTINF:-1,SPORTV 4 H.265 ¹
-http://dazul.me:80/Marcio2022/2022marcio/861018
-#EXTINF:-1,SPORTV 4 HD ¹
-http://dazul.me:80/Marcio2022/2022marcio/861019
-#EXTINF:-1,SPORTV 4 SD ¹
-http://dazul.me:80/Marcio2022/2022marcio/861020
 
-#EXTINF:-1,PREMIERE CLUBES FHD H265
-http://dazul.me:80/Marcio2022/2022marcio/856975
-#EXTINF:-1,PREMIERE CLUBES FHD ¹
-http://dazul.me:80/Marcio2022/2022marcio/847633
-#EXTINF:-1,PREMIERE CLUBES HD ¹
-http://dazul.me:80/Marcio2022/2022marcio/856753
-#EXTINF:-1,PREMIERE CLUBES HD²
-http://dazul.me:80/Marcio2022/2022marcio/847632
-#EXTINF:-1,PREMIERE CLUBES SD ¹
-http://dazul.me:80/Marcio2022/2022marcio/857191
-#EXTINF:-1,PREMIERE CLUBES SD²
-http://dazul.me:80/Marcio2022/2022marcio/847631
-#EXTINF:-1,PREMIERE 2 FHD H265
-http://dazul.me:80/Marcio2022/2022marcio/856976
-#EXTINF:-1,PREMIERE 2 FHD ¹
-http://dazul.me:80/Marcio2022/2022marcio/847651
-#EXTINF:-1,PREMIERE 2 HD ¹
-http://dazul.me:80/Marcio2022/2022marcio/856747
-#EXTINF:-1,PREMIERE 2 HD²
-http://dazul.me:80/Marcio2022/2022marcio/847650
-#EXTINF:-1,PREMIERE 2  SD ¹
-http://dazul.me:80/Marcio2022/2022marcio/857183
-#EXTINF:-1,PREMIERE 2 SD²
-http://dazul.me:80/Marcio2022/2022marcio/847649
-#EXTINF:-1,PREMIERE 3 FHD H265
-http://dazul.me:80/Marcio2022/2022marcio/856977
-#EXTINF:-1,PREMIERE 3 FHD ¹
-http://dazul.me:80/Marcio2022/2022marcio/847648
-#EXTINF:-1,PREMIERE 3 HD ¹
-http://dazul.me:80/Marcio2022/2022marcio/856748
-#EXTINF:-1,PREMIERE 3 HD²
-http://dazul.me:80/Marcio2022/2022marcio/847647
-#EXTINF:-1,PREMIERE 3 SD ¹
-http://dazul.me:80/Marcio2022/2022marcio/857184
-#EXTINF:-1,PREMIERE 3 SD²
-http://dazul.me:80/Marcio2022/2022marcio/847646
-#EXTINF:-1,PREMIERE 4 FHD ¹
-http://dazul.me:80/Marcio2022/2022marcio/847645
-#EXTINF:-1,PREMIERE 4 HD²
-http://dazul.me:80/Marcio2022/2022marcio/847644
-#EXTINF:-1,PREMIERE 4 SD ¹
-http://dazul.me:80/Marcio2022/2022marcio/857185
-#EXTINF:-1,PREMIERE 4 SD²
-http://dazul.me:80/Marcio2022/2022marcio/847643
-#EXTINF:-1,PREMIERE 5 FHD H265
-http://dazul.me:80/Marcio2022/2022marcio/856979
-#EXTINF:-1,PREMIERE 5 FHD ¹
-http://dazul.me:80/Marcio2022/2022marcio/847642
-#EXTINF:-1,PREMIERE 5 HD ¹
-http://dazul.me:80/Marcio2022/2022marcio/856750
-#EXTINF:-1,PREMIERE 5 HD²
-http://dazul.me:80/Marcio2022/2022marcio/847641
-#EXTINF:-1,PREMIERE 5 SD ¹
-http://dazul.me:80/Marcio2022/2022marcio/857186
-#EXTINF:-1,PREMIERE 5 SD²
-http://dazul.me:80/Marcio2022/2022marcio/847640
-#EXTINF:-1,PREMIERE 6 FHD H265
-http://dazul.me:80/Marcio2022/2022marcio/856980
-#EXTINF:-1,PREMIERE 6 FHD ¹
-http://dazul.me:80/Marcio2022/2022marcio/847639
-#EXTINF:-1,PREMIERE 6 HD ¹
-http://dazul.me:80/Marcio2022/2022marcio/856751
-#EXTINF:-1,PREMIERE 6 HD²
-http://dazul.me:80/Marcio2022/2022marcio/847638
-#EXTINF:-1,PREMIERE 6 SD ¹
-http://dazul.me:80/Marcio2022/2022marcio/857187
-#EXTINF:-1,PREMIERE 6 SD²
-http://dazul.me:80/Marcio2022/2022marcio/847637
-#EXTINF:-1,PREMIERE 7 FHD H265
-http://dazul.me:80/Marcio2022/2022marcio/856981
-#EXTINF:-1,PREMIERE 7 FHD ¹
-http://dazul.me:80/Marcio2022/2022marcio/847636
-#EXTINF:-1,PREMIERE 7 HD ¹
-http://dazul.me:80/Marcio2022/2022marcio/856752
-#EXTINF:-1,PREMIERE 7 HD²
-http://dazul.me:80/Marcio2022/2022marcio/847635
-#EXTINF:-1,PREMIERE 7 SD ¹
-http://dazul.me:80/Marcio2022/2022marcio/857188
-#EXTINF:-1,PREMIERE 7 SD²
-http://dazul.me:80/Marcio2022/2022marcio/847634
-#EXTINF:-1,PREMIERE 8 SD ¹
-http://dazul.me:80/Marcio2022/2022marcio/857189
-#EXTINF:-1,PREMIERE 9 SD ¹
-http://dazul.me:80/Marcio2022/2022marcio/857190
+#EXTINF:-1,PREMIERE CLUBES FULL HD
+http://xcui.vitvabc.xyz:8880/287994003103/287994003103/31525
+
+#EXTINF:-1,PREMIERE 2 FULL HD
+http://xcui.vitvabc.xyz:8880/287994003103/287994003103/31528
+
+#EXTINF:-1,PREMIERE 2 UHD
+http://xcui.vitvabc.xyz:8880/287994003103/287994003103/31531
+
+#EXTINF:-1,PREMIERE 3 UHD
+http://xcui.vitvabc.xyz:8880/287994003103/287994003103/31535
+
+#EXTINF:-1,PREMIERE 4 FULL HD
+http://xcui.vitvabc.xyz:8880/287994003103/287994003103/31536
+
+#EXTINF:-1,PREMIERE 5 FULL HD
+http://xcui.vitvabc.xyz:8880/287994003103/287994003103/31539
+
+#EXTINF:-1,PREMIERE 6 FULL HD
+http://xcui.vitvabc.xyz:8880/287994003103/287994003103/31542
+
+#EXTINF:-1,PREMIERE 7 FULL HD
+http://xcui.vitvabc.xyz:8880/287994003103/287994003103/31544
