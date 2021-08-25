@@ -1,65 +1,44 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO HD" tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="Canais Globo",GLOBO SP HD
-http://105m3u8.epg-kc.com/v3/youshi/m2_bz2lc7s8PV3avHAgjnFxpM0w_480p.m3u8?session_id=lBRRIDwx0DN1&app_ver=10101&auth_id=48373250_com.global.brasiltvweb&client_ip=45.161.48.150&user_id=48373250&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=http://105m3u8.epg-kc.com/v3/youshi/&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=31a0cfdc&expired=1629662603&token=184B475677B1D9295D151BC42BBA5869&media_code=m2_bz2lc7s8PV3avHAgjnFxpM0w_480p
-
-#EXTINF:-1 tvg-id="" tvg-name="SBT SP HD" tvg-logo="https://1.bp.blogspot.com/-w44XqjPTvWs/Xk70frnPuKI/AAAAAAAACGo/WLsOdZ3ANYApiYNooamMIhJAWiZwP2yLgCLcBGAsYHQ/s1600/sbt.png" group-title="Canais Abertos",SBT SP HD
-http://xcui.vitvabc.xyz:8880/287994003103/287994003103/31045
-
-#EXTINF:-1 tvg-logo="https://www.claro.com.br/imagem/record-tv-1509147620762.jpg" group-title="Canais Abertos",RECORD SP HD
-http://xcui.vitvabc.xyz:8880/287994003103/287994003103/31043
-
-#EXTINF:-1 tvg-id="" tvg-name="BAND SP HD" tvg-logo="https://1.bp.blogspot.com/-7wD5BCJxD9Y/Xk70MQFgPEI/AAAAAAAACDQ/BpR4PcQ1ou48cOLmC77yc1mz9xkZ0zssgCLcBGAsYHQ/s1600/band_2.png" group-title="Canais Abertos",BAND SP HD
-http://dazul.me:80/Marcio2022/2022marcio/857015
-
-#EXTINF:-1 tvg-id="" tvg-name="PrimePlay Music (EM FASE DE TESTES)" tvg-logo="https://i.imgur.com/bCLtAv7.png" group-title="Canais Variedades",PrimePlay Music (EM FASE DE TESTES)
-http://solutionplay.xyz:8080/techruthes/5854887/13873
-
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://1.bp.blogspot.com/-Nbl1xKywDX4/Xk70PRed9GI/AAAAAAAACDw/0MAoqSfWmZIhGxK8iGzKN3Q0HjHS-bYOgCLcBGAsYHQ/s1600/comedycentral.png" group-title="Canais Variedades",COMEDY CENTRAL HD
-http://solutionplay.xyz:8080/techruthes/5854887/6070
-
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="https://1.bp.blogspot.com/-KUhkg79gvtE/Xk70Ycy0l6I/AAAAAAAACFU/FSdt9HsRs98gkzltg-oGA049omcb1KWlQCLcBGAsYHQ/s1600/hbo.png" group-title="Canais HBO",HBO HD
-http://solutionplay.xyz:8080/techruthes/5854887/5948
-
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://1.bp.blogspot.com/-op011tmRIXQ/Xk70oGwc0-I/AAAAAAAACH8/Pf3FY0ON8Ic7PXZDKBtbiGbLJU4imuV4wCLcBGAsYHQ/s1600/warnerchannel.png" group-title="Canais Filmes",WARNER CHANNEL HD
+#EXTINF:-1,WARNER CHANNEL HD
 http://solutionplay.xyz:8080/techruthes/5854887/6486
-
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://1.bp.blogspot.com/-KYJNJ8ofZhQ/Xk70bsae15I/AAAAAAAACF4/bu4pFKpyK3I802HKsQJEP4f8S7_KLRUXgCLcBGAsYHQ/s1600/megapix.png" group-title="Canais Filmes",MEGAPIX HD
+#EXTINF:-1,MEGAPIX HD
 http://solutionplay.xyz:8080/techruthes/5854887/6457
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-2.png",SPORTV HD+
-http://tvdns.tech:80/Mateus123/Mateus123/770203
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-2.png",SPORTV 2 HD+
-http://tvdns.tech:80/Mateus123/Mateus123/770193
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-2.png",SPORTV 3 HD+
-http://tvdns.tech:80/Mateus123/Mateus123/770196 
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-2.png",SPORTV 4 HD+
-http://tvdns.tech:80/Mateus123/Mateus123/770201
-
-
-#EXTINF:-1,PREMIERE CLUBES FULL HD
-http://105m3u8.epg-kc.com/v3/youshi/m4_CI91VUNQ4wsiRtSvmhY8adfr_480p.m3u8?session_id=GiylSQCQi0dH&app_ver=10101&auth_id=48373250_com.global.brasiltvweb&client_ip=45.161.48.150&user_id=48373250&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=http://105m3u8.epg-kc.com/v3/youshi/&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=31a0cfdc&expired=1629604631&token=305FE36033D24DAE13996D8102B3BB5A&media_code=m4_CI91VUNQ4wsiRtSvmhY8adfr_480p
-
-#EXTINF:-1,PREMIERE 2 FULL HD
-http://xcui.vitvabc.xyz:8880/287994003103/287994003103/31528
-
-#EXTINF:-1,PREMIERE 2 UHD
-http://xcui.vitvabc.xyz:8880/287994003103/287994003103/31531
-
-#EXTINF:-1,PREMIERE 3 UHD
-http://xcui.vitvabc.xyz:8880/287994003103/287994003103/31535
-
-#EXTINF:-1,PREMIERE 4 FULL HD
-http://xcui.vitvabc.xyz:8880/287994003103/287994003103/31536
-
-#EXTINF:-1,PREMIERE 5 FULL HD
-http://xcui.vitvabc.xyz:8880/287994003103/287994003103/31539
-
-#EXTINF:-1,PREMIERE 6 FULL HD
-http://xcui.vitvabc.xyz:8880/287994003103/287994003103/31542
-
-#EXTINF:-1,PREMIERE 7 FULL HD
-http://xcui.vitvabc.xyz:8880/287994003103/287994003103/31544
+#EXTINF:-1,A&E HD
+http://solutionplay.xyz:8080/techruthes/5854887/6427
+#EXTINF:-1,HGTV HD
+http://solutionplay.xyz:8080/techruthes/5854887/6081
+#EXTINF:-1,CARTOON NETWORK HD
+http://solutionplay.xyz:8080/techruthes/5854887/5860
+#EXTINF:-1,GLOBO NEWS HD
+http://solutionplay.xyz:8080/techruthes/5854887/6108
+#EXTINF:-1,RECORD NEWS FHD
+http://solutionplay.xyz:8080/techruthes/5854887/6104
+#EXTINF:-1,GNT HD
+http://solutionplay.xyz:8080/techruthes/5854887/6076
+#EXTINF:-1,COMEDY CENTRAL HD
+http://solutionplay.xyz:8080/techruthes/5854887/6070
+#EXTINF:-1,GLOOB HD
+http://solutionplay.xyz:8080/techruthes/5854887/5935
+#EXTINF:-1,TELECINE FUN FHD
+http://solutionplay.xyz:8080/techruthes/5854887/6034
+#EXTINF:-1,REDE TV FHD
+http://solutionplay.xyz:8080/techruthes/5854887/6331
+#EXTINF:-1,PrimePlay Music (EM FASE DE TESTES)
+http://solutionplay.xyz:8080/techruthes/5854887/13873
+#EXTINF:-1,FOX HD
+http://solutionplay.xyz:8080/techruthes/5854887/6439
+#EXTINF:-1,SONY HD
+http://solutionplay.xyz:8080/techruthes/5854887/6463
+#EXTINF:-1,SPACE HD
+http://solutionplay.xyz:8080/techruthes/5854887/6466
+#EXTINF:-1,BOOMERANG HD
+http://solutionplay.xyz:8080/techruthes/5854887/5856
+#EXTINF:-1,NICKELODEON HD
+http://solutionplay.xyz:8080/techruthes/5854887/5985
+#EXTINF:-1,ANIMAL PLANET HD
+http://solutionplay.xyz:8080/techruthes/5854887/5848
+#EXTINF:-1,H2 HD
+http://solutionplay.xyz:8080/techruthes/5854887/5939
+#EXTINF:-1,HISTORY CHANNEL HD
+http://solutionplay.xyz:8080/techruthes/5854887/5966
+#EXTINF:-1,EVANGELIZAR HD
+http://solutionplay.xyz:8080/techruthes/5854887/5921
