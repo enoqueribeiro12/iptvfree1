@@ -1,65 +1,35 @@
-#EXTINF:-1,Globo HD
-http://105m3u8.epg-kc.com/v3/youshi/m2_bz2lc7s8PV3avHAgjnFxpM0w_480p.m3u8?session_id=KljFaCj4sMrW&app_ver=10101&auth_id=48373250_com.global.brasiltvweb&client_ip=45.161.48.150&user_id=48373250&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=http://105m3u8.epg-kc.com/v3/youshi/&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=31a0cfdc&expired=1629953440&token=6431F3F919FC0955F0F2031FCC5FE833&media_code=m2_bz2lc7s8PV3avHAgjnFxpM0w_480p
+#EXTINF:-1,Globo SP UHD
+http://icego.club:80/vanderlei12/vanderlei12/46243
 
-#EXTINF:-1,SBT HD
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
+#EXTINF:-1,SBT SP
+http://icego.club:80/vanderlei12/vanderlei12/46008
 
-#EXTINF:-1,Record Brasilia HD
-http://lxls.mx:80/miguel/miguel1234/48907
+#EXTINF:-1,RecordTV SP UHD
+http://icego.club:80/vanderlei12/vanderlei12/46248
 
-#EXTINF:-1,Megapix HD
-http://lxls.mx:80/miguel/miguel1234/3721
+
+#EXTINF:-1,Premiere Clubes UHD
+http://icego.club:80/vanderlei12/vanderlei12/46250
+#EXTINF:-1,Premiere 2 FHD
+http://icego.club:80/vanderlei12/vanderlei12/45702
+#EXTINF:-1,Premiere 3 FHD
+http://icego.club:80/vanderlei12/vanderlei12/45703
+#EXTINF:-1,Premiere 4 FHD
+http://icego.club:80/vanderlei12/vanderlei12/45704
+#EXTINF:-1,Premiere 5 FHD
+http://icego.club:80/vanderlei12/vanderlei12/45705
+#EXTINF:-1,Premiere 6 FHD
+http://icego.club:80/vanderlei12/vanderlei12/45706
+#EXTINF:-1,Premiere 7 FHD
+http://icego.club:80/vanderlei12/vanderlei12/45707
+
+#EXTINF:-1,SporTV UHD
+http://icego.club:80/vanderlei12/vanderlei12/46249
+#EXTINF:-1,SporTV 2 HD
+http://icego.club:80/vanderlei12/vanderlei12/45838
+#EXTINF:-1,SporTV 3 FHD
+http://icego.club:80/vanderlei12/vanderlei12/45726
 
 #EXTINF:-1,PrimePlay Music (EM FASE DE TESTES)
 http://solutionplay.xyz:8080/techruthes/5854887/13873
 
-#EXTINF:-1,Telecine Action HD
-http://lxls.mx:80/miguel/miguel1234/3896
-
-#EXTINF:-1,Telecine Cult HD
-http://lxls.mx:80/miguel/miguel1234/3898
-
-#EXTINF:-1,Telecine Fun HD
-http://lxls.mx:80/miguel/miguel1234/3900
-
-#EXTINF:-1,Telecine Pipoca HD
-http://lxls.mx:80/miguel/miguel1234/3902
-
-#EXTINF:-1,Telecine Premium HD
-http://lxls.mx:80/miguel/miguel1234/3904
-
-#EXTINF:-1,Telecine Touch HD
-http://lxls.mx:80/miguel/miguel1234/3906
-
-#EXTINF:-1,TELECINE FUN FHD
-http://solutionplay.xyz:8080/techruthes/5854887/6034
-
-#EXTINF:-1,Premiere Clubes HD
-http://lxls.mx:80/miguel/miguel1234/3882
-
-#EXTINF:-1,Premiere 2 HD
-http://lxls.mx:80/miguel/miguel1234/3872
-
-#EXTINF:-1,Premiere 3 HD
-http://lxls.mx:80/miguel/miguel1234/3874
-
-#EXTINF:-1,Premiere 4 HD
-http://lxls.mx:80/miguel/miguel1234/3875
-
-#EXTINF:-1,Premiere 5 HD
-http://lxls.mx:80/miguel/miguel1234/3877
-
-#EXTINF:-1,Premiere 6 HD
-http://lxls.mx:80/miguel/miguel1234/3878
-
-#EXTINF:-1,Premiere 7 HD
-http://lxls.mx:80/miguel/miguel1234/3879
-
-#EXTINF:-1,SporTV HD
-http://lxls.mx:80/miguel/miguel1234/11691
-
-#EXTINF:-1,SporTV 2 HD
-http://lxls.mx:80/miguel/miguel1234/3697
-
-#EXTINF:-1,SporTV 3 HD
-http://lxls.mx:80/miguel/miguel1234/3699
