@@ -1,35 +1,37 @@
-#EXTINF:-1,Globo RJ FHD
-http://icego.club:80/vanderlei12/vanderlei12/45746
+#EXTINF:-1,GLOBO TV MIRANTE FHD
+http://vipeiptv.com:25461/Miguel/Miguel/980394
 
-#EXTINF:-1,SBT SP
-http://icego.club:80/vanderlei12/vanderlei12/46008
+#EXTINF:-1,GLOBO TV SD
+http://105m3u8.epg-kc.com/v3/youshi/m2_bz2lc7s8PV3avHAgjnFxpM0w_480p.m3u8?session_id=Szs3jezLGW1H&app_ver=10101&auth_id=48373250_com.global.brasiltvweb&client_ip=45.161.48.150&user_id=48373250&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=http://105m3u8.epg-kc.com/v3/youshi/&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=31a0cfdc&expired=1630882064&token=2F6E89400C78191127058040F6C35B02&media_code=m2_bz2lc7s8PV3avHAgjnFxpM0w_480p
 
-#EXTINF:-1,RecordTV SP FHD
-http://icego.club:80/vanderlei12/vanderlei12/46135
+#EXTINF:-1,SBT HD
+http://vipeiptv.com:25461/Miguel/Miguel/856529
 
+#EXTINF:-1,SBT HD
+http://vipeiptv.com:25461/Miguel/Miguel/856529
 
-#EXTINF:-1,Premiere Clubes FHD
-http://icego.club:80/vanderlei12/vanderlei12/45708
-#EXTINF:-1,Premiere 2 FHD
-http://icego.club:80/vanderlei12/vanderlei12/45702
-#EXTINF:-1,Premiere 3 FHD
-http://icego.club:80/vanderlei12/vanderlei12/45703
-#EXTINF:-1,Premiere 4 FHD
-http://icego.club:80/vanderlei12/vanderlei12/45704
-#EXTINF:-1,Premiere 5 FHD
-http://icego.club:80/vanderlei12/vanderlei12/45705
-#EXTINF:-1,Premiere 6 FHD
-http://icego.club:80/vanderlei12/vanderlei12/45706
-#EXTINF:-1,Premiere 7 FHD
-http://icego.club:80/vanderlei12/vanderlei12/45707
+#EXTINF:-1,PREMIERE CLUBES FHD
+http://vipeiptv.com:25461/Miguel/Miguel/856251
+#EXTINF:-1,PREMIERE 2 FHD
+http://vipeiptv.com:25461/Miguel/Miguel/856257
+#EXTINF:-1,PREMIERE 3 FHD
+http://vipeiptv.com:25461/Miguel/Miguel/856263
+#EXTINF:-1,PREMIERE 4 HD
+http://vipeiptv.com:25461/Miguel/Miguel/856267
+#EXTINF:-1,PREMIERE 5 HD
+http://vipeiptv.com:25461/Miguel/Miguel/856272
+#EXTINF:-1,PREMIERE 6 HD
+http://vipeiptv.com:25461/Miguel/Miguel/856276
+#EXTINF:-1,PREMIERE 7 HD
+http://vipeiptv.com:25461/Miguel/Miguel/856279
+#EXTINF:-1,PREMIERE 8
+http://vipeiptv.com:25461/Miguel/Miguel/978920
 
-#EXTINF:-1,SporTV FHD
-http://icego.club:80/vanderlei12/vanderlei12/45837
-#EXTINF:-1,SporTV 2 HD
-http://icego.club:80/vanderlei12/vanderlei12/45838
-#EXTINF:-1,SporTV 3 FHD
-http://icego.club:80/vanderlei12/vanderlei12/45726
-
-#EXTINF:-1,PrimePlay Music (EM FASE DE TESTES)
-http://solutionplay.xyz:8080/techruthes/5854887/13873
-
+#EXTINF:-1,SPORTV FHD
+http://vipeiptv.com:25461/Miguel/Miguel/856234
+#EXTINF:-1,SPORTV 2 FHD
+http://vipeiptv.com:25461/Miguel/Miguel/856240
+#EXTINF:-1,SPORTV 3 HD
+http://vipeiptv.com:25461/Miguel/Miguel/856244
+#EXTINF:-1,SPORTV 4
+http://vipeiptv.com:25461/Miguel/Miguel/979176
